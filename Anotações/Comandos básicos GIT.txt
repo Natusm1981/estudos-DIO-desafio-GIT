@@ -1,0 +1,12 @@
+Git init						<<< Inicializa o repositório local
+Git clone  + url-do-link				<<< Clona um repositório da nuvem
+Git branch + nome-da-branch				<<< Cria uma ramificação do repositório
+Git checkout + nome-da-branch				<<< muda a branch de trabalho
+Git status						<<< exibe informações do repositório
+Git diff						<<< mostra quais linhas dos arquivos foram adicionadas e removidas
+Git add							<<< adiciona arquivos no repositório atual
+Git commit -m "mensagem explicando a mudança no código"	<<< confirma as mudanças feitas no repositório atual (cria um snapshot)
+Git push -u origin (<master> ou <branch>)		<<< Envia as alterações já commitadas para o repositório remoto
+
+
+*** em constante atualização... ***
